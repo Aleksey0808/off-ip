@@ -56,6 +56,13 @@
       margin-bottom: 121px;
     }
   }
+
+  &__button {
+    display: flex;
+    justify-content: center;
+
+    column-gap: 4.82px;
+  }
 }
 
 .about__main {
